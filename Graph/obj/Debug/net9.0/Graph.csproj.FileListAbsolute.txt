@@ -1,0 +1,15 @@
+D:\Phikozz\Projects\Graph\Graph\bin\Debug\net9.0\Graph.exe
+D:\Phikozz\Projects\Graph\Graph\bin\Debug\net9.0\Graph.deps.json
+D:\Phikozz\Projects\Graph\Graph\bin\Debug\net9.0\Graph.runtimeconfig.json
+D:\Phikozz\Projects\Graph\Graph\bin\Debug\net9.0\Graph.dll
+D:\Phikozz\Projects\Graph\Graph\bin\Debug\net9.0\Graph.pdb
+D:\Phikozz\Projects\Graph\Graph\obj\Debug\net9.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phikozz\Projects\Graph\Graph\obj\Debug\net9.0\Graph.AssemblyInfoInputs.cache
+D:\Phikozz\Projects\Graph\Graph\obj\Debug\net9.0\Graph.AssemblyInfo.cs
+D:\Phikozz\Projects\Graph\Graph\obj\Debug\net9.0\Graph.csproj.CoreCompileInputs.cache
+D:\Phikozz\Projects\Graph\Graph\obj\Debug\net9.0\Graph.sourcelink.json
+D:\Phikozz\Projects\Graph\Graph\obj\Debug\net9.0\Graph.dll
+D:\Phikozz\Projects\Graph\Graph\obj\Debug\net9.0\refint\Graph.dll
+D:\Phikozz\Projects\Graph\Graph\obj\Debug\net9.0\Graph.pdb
+D:\Phikozz\Projects\Graph\Graph\obj\Debug\net9.0\Graph.genruntimeconfig.cache
+D:\Phikozz\Projects\Graph\Graph\obj\Debug\net9.0\ref\Graph.dll

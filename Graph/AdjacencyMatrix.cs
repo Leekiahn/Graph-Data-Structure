@@ -17,10 +17,7 @@ public class AdjacencyMatrix
     // 간선 추가
     public void AddEdge(int from, int to)
     {
-        if (from < 0 || from >= size || to < 0 || to >= size)
-        {
-            throw new ArgumentOutOfRangeException("노드가 범위를 벗어났습니다.");
-        }
+        ValidateVertexUtil.Validate(size, from, to);
 
         matrix[from, to] = true;
         if (!isDirected)
@@ -30,10 +27,7 @@ public class AdjacencyMatrix
     // 간선 제거
     public void RemoveEdge(int from, int to)
     {
-        if (from < 0 || from >= size || to < 0 || to >= size)
-        {
-            throw new ArgumentOutOfRangeException("노드가 범위를 벗어났습니다.");
-        }
+        ValidateVertexUtil.Validate(size, from, to);
 
         matrix[from, to] = false;
         if (!isDirected)
@@ -43,10 +37,7 @@ public class AdjacencyMatrix
     // 간선 존재 여부 확인
     public bool HasEdge(int from, int to)
     {
-        if (from < 0 || from >= size || to < 0 || to >= size)
-        {
-            throw new ArgumentOutOfRangeException("노드가 범위를 벗어났습니다.");
-        }
+        ValidateVertexUtil.Validate(size, from, to);
 
         return matrix[from, to];
     }

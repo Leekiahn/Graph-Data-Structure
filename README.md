@@ -4,7 +4,7 @@
   
 - [**인접 행렬 (Adjacency Matrix)**](https://github.com/Leekiahn/Graph-Data-Structure/blob/main/Graph/AdjacencyMatrix.cs)
 - [**인접 리스트 (Adjacency List)**](https://github.com/Leekiahn/Graph-Data-Structure/blob/main/Graph/AdjacencyList.cs)  
-- [**가중치 (Weighted Graph)**](https://github.com/Leekiahn/Graph-Data-Structure/blob/main/Graph/WeightedGraph.cs)
+- [**가중치 그래프 (Weighted Graph)**](https://github.com/Leekiahn/Graph-Data-Structure/blob/main/Graph/WeightedGraph.cs)
 
 ## 파일 구조
 
